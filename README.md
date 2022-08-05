@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanV0311
 - 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently learning Data wrapping and Data crawling to excel in the career of Data analyst/Scientist.
+- 🌱 I’m currently learning Data Scraping and Data crawling to excel in the career of Data analyst/Scientist.
 - 💞️ I’m looking to collaborate on Data Analyst and Dat science Projects.
 - 📫 How to reach me aryanvyas007@gmail.com or on Aryan Vyas on LInkedIn.
 
